@@ -1,3 +1,5 @@
+# Блок-схемы к задачам по ссылке --> https://drive.google.com/file/d/1PzeUHuY-5fM5-c6KYbK4PEOCU63QeYdo/view?usp=sharing
+
 
 while True:
     a = int(input('Введите первое число: '))
